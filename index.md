@@ -5,7 +5,12 @@
 
 
 
-
+``` C
+// Playing with pointers in C 
+int num = 6;
+int *ptr = &num;
+printf("%p", ptr);
+```
 
 
 
