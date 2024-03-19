@@ -12,6 +12,14 @@ int *ptr = &num;
 printf("%p", ptr);
 ```
 
+- [ ] Learn as much as possible in university
+- [ ] Network (with genuine and proper intentions)
+- [ ] Get an internship
+- [ ] Grind projects and LeetCode
+- [ ] Get a job
+- [ ] Make money
+- [ ] Not hate my life
+
 
 
 
